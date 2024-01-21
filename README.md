@@ -11,7 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qolvap@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qolvap/)
-[![Resume Badge](https://img.shields.io/badge/resume?style=flat&logo=document&logoColor=white&link=https%3A%2F%2Fread.cv%2Fqolvap)](https://read.cv/qolvap) 
 ### Top Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
