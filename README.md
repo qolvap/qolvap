@@ -1,6 +1,7 @@
 👋 Self-taught and solution-oriented front-end developer with a passion for problem-solving. My projects are geared towards enhancing workflows. My background in building interactive responsive web applications, design and creating important documents with meticulous attention to detail, proven ability to review, test, and implement modifications forms and design templates make me well-suited for handling the responsibilities of web developer.
-- 📫 You can reach me by e-mail: qolvap@gmail.com 
-
+### Bizness
+- :paperclip: [My Resume/CV](https://read.cv/qolvap)
+- :email: qolvap@gmail.com 
 <!---
 qolvap/qolvap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
