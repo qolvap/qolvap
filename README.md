@@ -1,4 +1,4 @@
-🚀 **Self-Taught Front-End Developer | Problem Solver**
+### 🚀 Self-Taught Front-End Developer | Problem Solver**
 
 Passionate about creating efficient solutions. My proven focus is on improving workflows through:
 
@@ -29,9 +29,14 @@ You can click the Preview link to take a look at your changes.
 ![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-
-![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
-<img alt="Static Badge" src="https://img.shields.io/badge/freecodecamp-black">![freeCodeCamp points](https://img.shields.io/freecodecamp/points/qolvap) 
-[![LeetCode user qolvap](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fqolvap&logo=leetcode&logoColor=yellow)](https://leetcode.com/qolvap/) 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qolvap&layout=compact)
+
+### Brain Exercise
+![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+
+
+<img alt="Static Badge" src="https://img.shields.io/badge/freecodecamp-black">![freeCodeCamp points](https://img.shields.io/freecodecamp/points/qolvap) [![LeetCode user qolvap](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fqolvap&logo=leetcode&logoColor=yellow)](https://leetcode.com/qolvap/) 
+
+
