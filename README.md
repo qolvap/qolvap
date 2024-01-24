@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes.
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 <img alt="Static Badge" src="https://img.shields.io/badge/freecodecamp-black">![freeCodeCamp points](https://img.shields.io/freecodecamp/points/qolvap) 
 [![LeetCode user qolvap](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fqolvap&logo=leetcode&logoColor=yellow)](https://leetcode.com/qolvap/)
