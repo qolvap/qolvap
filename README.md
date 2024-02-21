@@ -1,4 +1,4 @@
-### 🚀 Self-Taught Front-End Developer | Problem Solver
+### 🚀 Self-Taught Front-End Developer
 
 Passionate about creating efficient solutions. My proven focus is on improving workflows through:
 
