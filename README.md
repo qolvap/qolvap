@@ -1,6 +1,4 @@
-### 🚀 Self-Taught Front-End Developer
-
-Passionate about creating efficient solutions. My proven focus is on improving workflows through:
+I create the efficient solutions. My proven focus is on improving workflows through:
 
 - 🌐 Building interactive, responsive web sites & applications.
 - 🎨 Designing with meticulous attention to detail.
