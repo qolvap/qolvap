@@ -7,6 +7,7 @@ I create the efficient solutions. My proven focus is on improving workflows thro
 Proven ability to review, test, and implement modifications to forms and design templates. Well-suited for the dynamic responsibilities of a web developer.
 
 ### Bizness
+- :card_index_dividers: [Review My Portfolio](https://bit.ly/qolvap_dev)
 - :paperclip: [My Resume/CV](https://read.cv/qolvap)
 - :email: qolvap@gmail.com 
 <!---
