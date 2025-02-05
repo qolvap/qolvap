@@ -1,11 +1,3 @@
-I create the efficient solutions. My proven focus is on improving workflows through:
-
-- 🌐 Building interactive, responsive web sites & applications.
-- 🎨 Designing with meticulous attention to detail.
-- 📑 Creating important documents.
-  
-Proven ability to review, test, and implement modifications to forms and design templates. Well-suited for the dynamic responsibilities of a web developer.
-
 ### Bizness
 - :card_index_dividers: [Review My Portfolio](https://bit.ly/qolvap_dev)
 - :paperclip: [My Resume/CV](https://read.cv/qolvap)
